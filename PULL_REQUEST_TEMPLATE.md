@@ -8,7 +8,12 @@ Is there anything you would like reviewers to give additional scrutiny?
 
 ## Setup
 
-Add any steps or code to run in this section to help others prepare to run your code:
+Add any steps or code to run in this section to help others prepare to run your code.
+
+Please ensure the following is included:
+* instructions for running your changes locally to success, as well as a definition for what "success" looks like
+* push your branch to the `experimental` environment for the system being adapted, if applicable.
+* instructions for triggering a manual end-to-end test in experimental, or links/screenshots for a successful execution with your changes.
 
 ```sh
 echo "Code goes here"
